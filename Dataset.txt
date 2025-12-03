@@ -1,0 +1,24 @@
+from,to,weight
+Luiz Henrique,QUINTA,1
+Mariana,SEGUNDA,1
+evandro pinheiro,QUARTA,1
+Rafael,QUINTA,1
+Augusto Galego,SEGUNDA,1
+RAUL BORGES,QUINTA,1
+Deysiane Fernandes,SEXTA,1
+Alessandra,SEGUNDA,1
+Júlio César,QUARTA,1
+Lucas,SEXTA,1
+Gislaine Evangelista,TERÇA,1
+Ana Nascimento,SEXTA,1
+Efraim caprioli,QUINTA,1
+Vângela,SEXTA,1
+Francisco,SEGUNDA,1
+Ketelyn Barbosa,QUINTA,1
+Ataliba Leonel,SEGUNDA,1
+Fabiana,QUINTA,1
+Izadora,QUINTA,1
+Levi Evangelio,SEXTA,1
+Josiane Leonardo,QUINTA,1
+Renan Gasperetti,SEXTA,1
+isabela de carvalho,SEGUNDA,1
